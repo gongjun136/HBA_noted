@@ -1,0 +1,9 @@
+Log file created at: 2023/09/25 21:51:15
+Running on machine: gj
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0925 21:51:15.631899 24077 hba.hpp:177] init parameter:
+I0925 21:51:15.632068 24077 hba.hpp:178] layer_num 1 | thread_num 16 | pose_size 1101 | max_iter 10 | part_length 14 | gap_num 218 | last_win_size 6 | left_gap_num 9 | tail 1 | left_size 96 | left_h_size 50 | j_upper 10 | downsample_size 0.1 | voxel_size 4 | eigen_ratio 0.1 | reject_ratio 0.05
+I0925 21:51:15.632122 24077 hba.hpp:177] init parameter:
+I0925 21:51:15.632124 24077 hba.hpp:178] layer_num 2 | thread_num 15 | pose_size 220 | max_iter 10 | part_length 3 | gap_num 42 | last_win_size 5 | left_gap_num 1 | tail 0 | left_size 10 | left_h_size 9 | j_upper 1 | downsample_size 0.1 | voxel_size 4 | eigen_ratio 0.1 | reject_ratio 0.05
+I0925 21:51:15.632134 24077 hba.hpp:177] init parameter:
+I0925 21:51:15.632140 24077 hba.hpp:178] layer_num 3 | thread_num 7 | pose_size 43 | max_iter 10 | part_length 1 | gap_num 6 | last_win_size 8 | left_gap_num 1 | tail 3 | left_size 18 | left_h_size 12 | j_upper 2 | downsample_size 0.1 | voxel_size 4 | eigen_ratio 0.1 | reject_ratio 0.05
